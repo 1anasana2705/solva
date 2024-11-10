@@ -1,0 +1,6 @@
+# Создание директории
+mkdir ~/devops_test
+# Создание пустого файла
+touch ~/devops_test/readme.txt
+# Текущий путь в терминале
+pwd
