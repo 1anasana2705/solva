@@ -1,1 +1,2 @@
 Hello DevOps
+git log (выводит историю коммитов)
